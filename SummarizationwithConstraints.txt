@@ -1,0 +1,9 @@
+Que ) Write a prompt to summarize a news article into 2 sentences. If the summary exceeds 50 words, truncate it to the nearest complete sentence.
+
+Ans) 
+You are a professional news editor with experience of more than 10 years.
+
+Summarize the following news article in exactly "2 clear sentences".
+The summary must be concise, factual, and neutral.
+Do not exceed "50 words total".
+Do not add opinions or extra context.
